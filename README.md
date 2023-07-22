@@ -1,6 +1,6 @@
-# Blog Website using Next.js, Sanity, TypeScript, Tailwind CSS, Auth0, CMS, Vercel
+# Blog Website in Next.js.
 
-![Blog Website](url_to_blog_website_image)
+[Blog Website](url_to_blog_website_image)
 
 This is a full-fledged blog website built using the latest web development technologies. It combines the power of Next.js, Sanity, TypeScript, Tailwind CSS, Auth0 for authentication, a CMS for content management, and it's deployed on Vercel for fast and reliable hosting.
 
