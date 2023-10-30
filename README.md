@@ -1,32 +1,26 @@
-# Blog Website in Next.js.
+# Next.js Template for Next UI in JSX
 
-[Blog Website](url_to_blog_website_image)
+This is a Next.js template pre-configured to work seamlessly with Next UI, a powerful UI framework for React applications. This template is designed to help you kickstart your Next.js project with the best practices and tools for building modern, responsive web applications.
 
-This is a full-fledged blog website built using the latest web development technologies. It combines the power of Next.js, Sanity, TypeScript, Tailwind CSS, Auth0 for authentication, a CMS for content management, and it's deployed on Vercel for fast and reliable hosting.
+**Please Note**: This template is intended for projects that primarily use JSX components. If your project relies on other templating languages or frameworks, this template may not be suitable.
 
 ## Features
 
-- **Dynamic Blog Posts**: Create, edit, and delete blog posts easily through the CMS (Sanity) and have them dynamically rendered on the website using Next.js.
-- **Responsive Design**: The website is fully responsive, ensuring a seamless experience across various devices and screen sizes.
-- **Authentication**: Securely authenticate users with Auth0, allowing them to login and manage their own blog posts or leave comments.
-- **CMS Integration**: The content of the blog is managed using Sanity CMS, providing a user-friendly interface for content creators to update and publish articles without touching code.
-- **SEO-friendly**: Optimized for search engines to improve the website's visibility and reach.
-- **Fast Loading**: Deployed on Vercel, the website benefits from fast and reliable hosting, ensuring quick loading times for users.
+- **Next.js**: A popular React framework for building server-rendered React applications.
 
-## Tech Stack
+- **Next UI**: A versatile UI framework for React that provides a wide range of customizable UI components.
 
-- [Next.js](https://nextjs.org): A React framework for building server-side rendered (SSR) and static websites.
-- [Sanity](https://www.sanity.io): A headless CMS for managing content and delivering it via API.
-- [TypeScript](https://www.typescriptlang.org): A statically typed language for JavaScript development, providing better tooling and error detection.
-- [Tailwind CSS](https://tailwindcss.com): A utility-first CSS framework for quickly building custom designs.
-- [Auth0](https://auth0.com): A flexible, scalable, and secure authentication platform.
-- [Vercel](https://vercel.com): A cloud platform for deploying and hosting static websites with automatic scaling and continuous deployment.
+- **Tailwind CSS**: A utility-first CSS framework for building responsive and highly customizable user interfaces.
+
+- **ESLint and Prettier**: Code linting and formatting to maintain a consistent code style.
 
 ## Getting Started
 
-1. Clone the repository:
+To use this template, follow these steps:
 
-```bash
-git clone https://github.com/your-username/blog-website.git
-cd blog-website
-```
+1. **Clone the repository:**
+
+   ```bash
+   git clone <repository-url>
+   cd nextjs-nextui-template
+   ```
