@@ -1,0 +1,48 @@
+.main {
+  width: 350px;
+  height: 500px;
+  border-radius: 1px;
+  .image {
+    // border: 2px solid green;
+    height: 300px;
+    overflow: hidden;
+    img {
+      border-radius: 1px;
+    }
+  }
+  .info {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    .heading {
+      //   border: 2px solid red;
+      p {
+        font-size: 20px;
+        font-weight: 600;
+      }
+    }
+    .profile {
+      height: fit-content;
+      //   border: 2px solid red;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      p {
+        font-size: 12px;
+        color: #a1a1aa;
+        font-weight: 400;
+      }
+    }
+    .action {
+      height: fit-content;
+      //   border: 2px solid green;
+      display: flex;
+      justify-content: flex-end;
+      button {
+        background-color: black;
+        color: #fff;
+      }
+    }
+  }
+}
